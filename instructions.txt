@@ -1,0 +1,13 @@
+* Steps to run the game *
+1 - Extract the emulator Qemu from the file "qemu emulator" in folder "utilities to install"
+2 - Install "QemuInstall-0.7.2" and "setupqumuk70"
+3 - Open the Qemu Manager
+
+* Create a VM in Qemu *
+1 - Click the red "+" button
+2 - Write a name for the VM
+3 - Click next, next again and finish (left the fields unchanged in this steps)
+4 - Click in "Drives"
+5 - Go to Boot Order and make "Floppy Drive" the first option to boot
+6 - Go to Floppy Drive and select the boot.img image
+7 - Run the virtual machine clicking the green play buttom
